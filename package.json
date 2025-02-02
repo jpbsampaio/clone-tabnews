@@ -1,7 +1,7 @@
 {
   "name": "clone-tabnews",
   "version": "1.0.0",
-  "description": "Implementação do tabnews pro curso.dev",
+  "description": "Implementação do https://www.tabnews.com.br para o https://curso.dev",
   "main": "index.js",
   "scripts": {
     "dev": "npm run services:up && next dev",
@@ -28,6 +28,6 @@
   },
   "devDependencies": {
     "jest": "^29.6.2",
-    "prettier": "^3.3.0"
+    "prettier": "^2.8.8"
   }
 }
