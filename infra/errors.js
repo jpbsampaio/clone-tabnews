@@ -14,6 +14,6 @@ export class InternalServerError extends Error {
       message: this.message,
       action: this.action,
       status_code: this.statusCode,
-    }
+    };
   }
 }
